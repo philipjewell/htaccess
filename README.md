@@ -1,0 +1,3 @@
+
+# htaccess
+WordPress .htaccess files
